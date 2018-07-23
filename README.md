@@ -38,3 +38,11 @@ Put your token
 1.Linux on t2.medium with cold HDD 500GB : $46.67/month
 2.Window on m4.2xlarge with General SSD 100GB : $572.18/month
 3.Linux with SQL Standard on i2.xlarge : $1020.76/month
+
+diagrams
+
+![diagram 1](https://user-images.githubusercontent.com/40584139/43051605-47ce56f4-8dd1-11e8-8c0a-0576dbf632e5.png)
+
+![diagram 2](https://user-images.githubusercontent.com/40584139/43051606-47eb54f2-8dd1-11e8-8499-c7caef3664ec.png)
+
+
